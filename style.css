@@ -1,0 +1,14 @@
+
+*, *::before, *::after {
+    box-sizing: border-box;
+    font-family: Gotham Rounded, sans-serif;
+    font-weight: normal;
+}
+
+body{
+    background: no-repeat center center fixed;
+    background: -webkit-linear-gradient(-29deg, rgb(50, 102, 148), rgb(90, 25, 20));
+    background: linear-gradient(-29deg, rgb(50, 102, 148), rgb(90, 25, 20));
+    margin: 0;
+    padding: 0;
+    }
